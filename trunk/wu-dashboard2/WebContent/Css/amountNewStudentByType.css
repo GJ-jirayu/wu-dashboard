@@ -1,0 +1,37 @@
+#topConten{
+	width:980px;
+	height:auto;
+	margin:10px auto auto;
+	/*box-shadow: 0 0 10px #888888;*/
+	border: 1px solid #CCCCCC;
+}
+#topConten .contentTitle{
+	height:auto;
+	text-align:center;
+	font-weight:bold;
+	padding: 5px;
+	/*border:1px solid red;*/
+}
+
+#buttomContent{
+	width:1000px;
+	height:auto;
+	margin:auto;
+	/*box-shadow: 0 0 10px #888888;*/
+	/*border: 1px solid #CCCCCC;*/
+}
+#buttomContent .panel{
+	width:484px;
+	height:auto;
+	float:left;
+	margin:5px;
+	text-align:center;
+	border: 1px solid #CCCCCC;
+}
+#buttomContent .panel .panelChartTitle{
+	height:40px;
+	teat-align:center;
+	font-weight:bold;
+	padding: 5px;
+	/*border:1px solid #CCCCCC;*/
+}
